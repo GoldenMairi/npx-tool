@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+
 const home = require('user-home')
 const path = require('path')
 const chalk = require('chalk')
