@@ -1,6 +1,0 @@
-#!/usr/bin/env node
-
-const home = require('user-home')
-const path = require('path')
-const chalk = require('chalk')
-console.log(chalk.gray(path.join(home, '.vue-templates')))

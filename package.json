@@ -5,9 +5,16 @@
   "bin": {
     "template-path": "bin/template-path"
   },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "dewei <1534584879@qq.com>",
+  "license": "MIT",
   "dependencies": {
     "chalk": "^2.4.1",
     "user-home": "^2.0.0"
   },
-  "license": "MIT"
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
 }
