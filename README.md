@@ -1,4 +1,4 @@
-# npx-tool
+# npx-tool [![Build Status](https://travis-ci.com/GoldenMairi/npx-tool.svg?branch=master)](https://travis-ci.com/GoldenMairi/npx-tool)
 
 >npx执行的小工具
 
