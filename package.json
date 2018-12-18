@@ -1,7 +1,13 @@
 {
   "name": "npx-tool",
+  "version": "0.1.0",
+  "description": "npx执行的小工具",
+  "bin": {
+    "user-home": "bin/user-home"
+  },
   "dependencies": {
     "chalk": "^2.4.1",
     "user-home": "^2.0.0"
-  }
+  },
+  "license": "MIT"
 }
