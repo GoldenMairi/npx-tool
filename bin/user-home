@@ -1,0 +1,5 @@
+#!/usr/bin/env node
+
+const chalk = require('chalk')
+const home = require('user-home')
+console.log(chalk.gray(home))

@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "user-home": "^2.0.0"
+  }
+}
