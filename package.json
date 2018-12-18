@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "npx执行的小工具",
   "bin": {
-    "user-home": "bin/user-home"
+    "template-path": "bin/template-path"
   },
   "dependencies": {
     "chalk": "^2.4.1",

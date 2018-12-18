@@ -2,4 +2,4 @@
 
 const chalk = require('chalk')
 const home = require('user-home')
-console.log(chalk.gray(home))
+console.log(chalk.gray(path.join(home, '.vue-templates')))
