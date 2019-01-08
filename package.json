@@ -3,9 +3,7 @@
   "version": "0.1.0",
   "description": "npx执行的小工具",
   "bin": {
-    "template-pata": "bin/template-pata",
-    "template-path": "bin/template-path",
-    "template-patt": "bin/template-patt"
+    "template-path": "bin/template-path"
   },
   "scripts": {
     "test": "mocha"
