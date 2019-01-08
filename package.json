@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "description": "npx执行的小工具",
   "bin": {
-    "template-patt": "bin/template-patt",
     "template-path": "bin/template-path"
   },
   "scripts": {
