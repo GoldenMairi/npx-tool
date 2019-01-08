@@ -2,6 +2,9 @@
   "name": "npx-tool",
   "version": "0.1.0",
   "description": "npx执行的小工具",
+  "bin": {
+    "template": "bin/template-path"
+  },
   "scripts": {
     "test": "mocha"
   },
