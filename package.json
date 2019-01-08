@@ -3,7 +3,9 @@
   "version": "0.1.0",
   "description": "npx执行的小工具",
   "bin": {
-    "template-path-haha": "bin/template-path"
+    "template-path": "bin/template-path",
+    "template-haha": "bin/template-path",
+    "bb": "bin/template-path"
   },
   "scripts": {
     "test": "mocha"
