@@ -14,10 +14,10 @@
   "license": "MIT",
   "dependencies": {
     "chalk": "^2.4.1",
+    "commander": "^2.19.0",
     "user-home": "^2.0.0"
   },
   "devDependencies": {
-    "commander": "^2.19.0",
     "mocha": "^5.2.0"
   }
 }
