@@ -3,7 +3,9 @@
   "version": "0.1.0",
   "description": "npx执行的小工具",
   "bin": {
-    "template-path": "bin/template-path"
+    "tool": "bin/tool",
+    "tool-path": "bin/tool-path",
+    "tool-bb": "bin/tool-bb"
   },
   "scripts": {
     "test": "mocha"
