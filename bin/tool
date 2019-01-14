@@ -6,5 +6,6 @@ program
   .version(require('../package').version)
   .usage('<command> [options]')
   .command('path', 'vue-cli下载模板到本机的路径')
+  .command('bb', 'bbbbbbbbbb')
 
 program.parse(process.argv)

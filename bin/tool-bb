@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+
+console.log(chalk.gray('    #bbbbb'))
+console.log('    ' + path.join('bbbb', '.vue-templates'))
