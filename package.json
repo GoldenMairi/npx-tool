@@ -4,8 +4,7 @@
   "description": "npx执行的小工具",
   "bin": {
     "tool": "bin/tool",
-    "tool-path": "bin/tool-path",
-    "tool-bb": "bin/tool-bb"
+    "tool-path": "bin/tool-path"
   },
   "scripts": {
     "test": "mocha"
