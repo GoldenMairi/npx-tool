@@ -1,7 +1,8 @@
 #!/usr/bin/env node
 
 const program = require('commander')
-
+console.log('tool');
+console.log('');
 program
   .version(require('../package').version)
   .usage('<command> [options]')
